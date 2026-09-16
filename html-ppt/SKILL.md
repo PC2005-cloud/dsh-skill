@@ -5,7 +5,7 @@ whenToUse: "用户要求做 PPT/幻灯片/slides/deck/keynote/演示稿/演讲�
 metadata:
   language: "zh"
   category: "design"
-disable-model-invocation: false
+disable-model-invocation: true
 user-invocable: true
 ---
 
