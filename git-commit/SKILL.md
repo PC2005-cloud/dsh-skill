@@ -5,7 +5,7 @@ whenToUse: "用户要求根据本次代码变更生成提交信息；用户要�
 metadata:
   language: "zh"
   category: "development"
-disable-model-invocation: true
+disable-model-invocation: false
 user-invocable: true
 ---
 
